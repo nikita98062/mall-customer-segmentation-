@@ -1,0 +1,5 @@
+|-- .ipynb_checkpoints
+    |-- mall_customer_segmentation-checkpoint.ipynb
+|-- Mall_Customers.csv
+|-- mall_customer_segmentation.ipynb
+|-- README.md
