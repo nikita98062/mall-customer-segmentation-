@@ -63,6 +63,3 @@ The analysis identifies distinct customer segments based on their annual income 
 
 ## Contributing 🤝
 Feel free to fork this project and submit pull requests with improvements!
-
-## License 📄
-This project is open source and available under the MIT License.
